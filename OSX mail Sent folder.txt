@@ -1,0 +1,2 @@
+To change the default sent mailbox for Apple Mail first select the "Sent" folder on the server (in the folders pane on the left).
+Then chose Mailbox from the menu > Use this Mailbox for > and then chose Sent.
