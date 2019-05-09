@@ -13,5 +13,3 @@ name = MPI.Get_processor_name()
 sys.stdout.write(
     "Hello, World! I am process %d of %d on %s.\n"
     % (rank, size, name))
-
-remove this line
